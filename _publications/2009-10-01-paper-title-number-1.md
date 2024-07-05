@@ -1,10 +1,2 @@
----
-title: "Mega-evolutionary dynamics of the adaptive radiation of birds"
-collection: #publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-#date: 2017-02-16
-venue: #'Journal 1'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://hull-research.worktribe.com/record.jx?recordid=3267681#:~:text=Fulltext%20%2D%20Accepted%20Version-,Download,-Preview'
-citation: 'Cooney, CR., Bright, JA., Capp, EJR., Chira, AM., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. (2017). &quot;Mega-evolutionary dynamics of the adaptive radiation of birds.&quot; <i>Nature</i>. 542, 344-347.'
+Cooney, CR., Bright, JA., Capp, EJR., Chira, AM., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. (2017). <a href="https://hull-research.worktribe.com/record.jx?recordid=3267681#:~:text=Fulltext%20%2D%20Accepted%20Version-,Download,-Preview'/">Mega-evolutionary dynamics of the adaptive radiation of birds"</a>
+<i>Nature</i>. 542, 344-347.
