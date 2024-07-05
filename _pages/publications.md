@@ -40,7 +40,7 @@ author_profile: true
   <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.10991">Strain accommodation in the zygomatic arch of the pig: a validation study using digital speckle pattern interferometry and finite element analysis.</a> <b>Bright, JA.</b>, Gröning, F. 2011. <i>Journal of Morphology</i>. <b>272</b>, 1388-1398.</li>
   <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-7580.2011.01408.x">Sensitivity and <i>ex vivo</i> validation of finite element models of the domestic pig cranium.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Journal of Anatomy</i>. <b>219</b>, 456-471.</li>
   <li><a href="https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.21358">The response of cranial biomechanical finite element models to variations in mesh density.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Anatomical Record</i>. <b>294</b>, 610-620.</li>
-</ol>
+
 
 {% include base_path %}
 
