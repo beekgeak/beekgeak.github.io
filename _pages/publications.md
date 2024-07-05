@@ -9,8 +9,69 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Cooney, CR., Bright, JA., Capp, EJR., Chira, AM., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. (2017). <a href="https://hull-research.worktribe.com/record.jx?recordid=3267681#:~:text=Fulltext%20%2D%20Accepted%20Version-,Download,-Preview'/">Mega-evolutionary dynamics of the adaptive radiation of birds"</a>
-<i>Nature</i>. 542, 344-347.
+<p>
+<ol reversed> 
+<li><a href="https://elifesciences.org/articles/89871">Synthetic analysis of trophic diversity and evolution in Enantiornithes with new insights from Bohaiornithidae.</a> Miller, CV., <b>Bright, JA.</b>, Wang, X., Zheng, X., Pittman, M. 2024. <i>eLife</i>. <b>12</b>, RP89871</li>
+</p><p>
+<li><a href="https://www.science.org/doi/full/10.1126/sciadv.adg1641">Innovation and elaboration on the avian tree of life.</a> Guillerme, T., <b>Bright, JA.</b>, Cooney, CR., Hughes, EC., Varley, ZK., Cooper, N., Beckerman, AP., Thomas, GH. 2023.  <i>Science Advances</i>. <b>9</b>, eadg1641.</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.21633">Three-dimensional visualization of predatory gastropod feeding teeth with synchrotron scanning.</a> Herbert, GS., Hill, SA., Pio, MJ., Carney, R., Carlson, A., Newham, E., <b>Bright, JA.</b> 2023.  <i>Journal of Morphology.</i> <b>284</b>, e21633.</li>
+</p><p>
+<li><a href="https://peerj.com/articles/15545/">Is shape in the eye of the beholder? Assessing landmarking error in geometric morphometric analyses on live fish.</a> Moccetti, P., Rodger, JR., Bolland, JD., Kaiser-Wilks, P., Smith, R., Nunn, AD., Adams, CE., <b>Bright, JA.</b>, Honkanen, HM., Lothian, A., Newton, M., Joyce, DA. 2023. <i>PeerJ.</i> <b>11</b>, e15545.</li>
+</p><p>
+<li><a href="https://www.cell.com/iscience/fulltext/S2589-0042(23)00288-2">Quantitative investigation of pengornithid enantiornithine diet reveals macrocarnivorous ecology evolved in birds by Early Cretaceous.</a> Miller, CV., Pittman, M., Wang, X., Zheng, X., <b>Bright, JA.</b> 2023. <i>iScience.</i> <b>26</b>, 106211.</li>
+</p><p>
+<li><a href="https://link.springer.com/article/10.1186/s12915-022-01294-3">Diet of Mesozoic toothed birds (Longipterygidae) inferred from quantitative analysis of extant avian diet proxies.</a> Miller, CV., Pittman, M., Wang, X., Zheng, X., <b>Bright, JA.</b> 2022. <i>BMC Biology.</i> <b>20</b>, 101</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13905">Global biogeographic patterns of avian ecomorphological diversity.</a> Hughes, EC., Edwards, DP., <b>Bright, JA.</b>, Capp, EJR., Cooney, CR., Varley, ZK., Thomas, GH. 2022. <i>Ecology Letters.</i> <b>25</b>, 598-610.</li>
+</p><p>
+<li><a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0181">Craniofacial development illuminates the evolution of nightbirds (Strisores).</a> Navalón, G., Nebreda, SM., <b>Bright, JA.</b>, Fabbri, M., Benson, RBJ., Bhullar, B-A., Marugán-Lobón, J., Rayfield, EJ. 2021. <i>Proceedings of the Royal Society B.</i> <b>288</b>, 20210181.</li>
+</p><p>
+<li><a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1585">The signature of competition in ecomorphological traits across the avian radiation.</a> Chira, AM., Cooney, CR., <b>Bright, JA.</b>, Capp, EJR., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. 2020. <i>Proceedings of the Royal Society B.</i> <b>287</b>, 20201585.</li>
+</p><p>
+<li><a href="https://www.nature.com/articles/s42003-020-01252-1">Disassociated rhamphotheca of fossil bird <i>Confuciusornis</i> informs early beak reconstruction, stress regime, and developmental patterns.</a> Miller, CV., Pittman, M., Kaye, TG., Wang, X., <b>Bright, JA.</b>, Zheng, X. 2020. <i>Communications Biology</i>. <b>3</b>, 519.</li>
+</p><p>
+<li><a href="https://www.nature.com/articles/s41559-019-1092-y">The consequences of craniofacial integration on the adaptive radiations of Darwin’s Finches and Hawaiian Honeycreeper.</a> Navalón, G., Marugán-Lobón, J., <b>Bright, JA.</b>, Cooney, CR. Rayfield, EJ. 2020. <i>Nature Ecology and Evolution.</i> <b>4</b>, 270 – 278.
+</p><p>
+<li><a href="https://link.springer.com/article/10.1186/s12862-019-1432-1">The multifactorial nature of beak and skull shape evolution in parrots and cockatoos (Psittaciformes).</a> <b>Bright, JA.</b>, Marugán-Lobón, J., Rayfield, EJ., Cobb, SN. 2019. <i>BMC Evolutionary Biology.</i> <b>19</b>, 104.</li>
+</p><p>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-13739-7_17">Chapter 17. Feeding in birds: Thriving in terrestrial, aquatic, and aerial niches</a> <i>in</i> Bels, V. and Whishaw, I.Q. [eds], <a href="https://link.springer.com/book/10.1007/978-3-030-13739-7"><i>Feeding in vertebrates: Evolution, morphology, behavior, biomechanics.</i></a> Rico-Guevara, A., Sustaita, D., Gussekloo, SWS., Olsen, AM., <b>Bright, JA.</b>, Corbin, CE., Dudley, R. 2019. pp. 643 – 693. Springer Nature Switzerland, Cham, Switzerland. 
+</p><p>
+<li><a href="https://academic.oup.com/evolut/article/73/3/422/6727293?login=true">The evolutionary relationship between beak shape, mechanical advantage, and feeding ecology in modern birds.</a> Navalón, G., Bright, JA., Marugán-Lobón, J., Rayfield, EJ. 2019. <i>Evolution</i>. <b>73</b>, 422 – 435.</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13131">Correlates of rate heterogeneity in avian ecomorphological traits.</a> Chira, AM., Cooney, CR., <b>Bright, JA.</b>, Capp, EJR., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. 2018. <i>Ecology Letters</i>. <b>21</b>, 1505 – 1514.</li>
+</p><p>
+<li><a href+"https://www.nature.com/articles/nature21074">Mega-evolutionary dynamics of the adaptive radiation of birds</a> Cooney*, CR., <b>Bright*, JA.</b>, Capp, EJR., Chira, AM., Hughes, EC., Moody, CJA., Nouri, LO., Varley, ZK., Thomas, GH. 2017. <i>Nature.</i> <b>542</b>, 344-347. *equal contributions</li>
+</p><p>
+<li><a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0194">Open data and digital morphology.</a> Davies, TG., et al [44 others inc. <b>Bright, JA.</b>]. 2017. <i>Proceedings of the Royal Society B</i>. <b>284</b>, 29170194.</li>
+</p><p>
+<li><a href="https://www.nature.com/articles/srep44920">Scaling and functional morphology in strigiform hind limbs.</a> Madan, MA., Rayfield, EJ., <b>Bright, JA.</b> 2017. <i>Nature Scientific Reports</i>. <b>7</b>, 44920.</li>
+</p><p>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.1602683113">The shapes of bird beaks are highly controlled by non-dietary factors.</a> <b>Bright, JA.</b>, Marugán-Lobón, J. Cobb, SN., Rayfield, EJ. 2016. <i>PNAS</i>. <b>113</b>, 5352-5357.</li>
+</p><p>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0021929015003942">Finite element modelling predicts changes in joint shape and cell behaviour due to loss of muscle strain in jaw development.</a> Brunt, LH., Norton, JL., <b>Bright, JA.</b>, Rayfield, EJ., Hammond, CL. 2015. <i>Journal of Biomechanics</i>. <b>48</b>, 3112-3122.</li>
+</p><p>
+<li><a href="https://peerj.com/articles/1294/">Validation of a finite element model of an ostrich (<i>Struthio camelus</i>) cranium.</a> Cuff, AR., <b>Bright, JA.</b>, Rayfield, EJ. 2015. <i>PeerJ</i>. <b>3</b>, e1294.</li>
+</p><p>
+<li><a href="https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/midoligocene-whitneyan-rhinocerotid-from-northeastern-california/3CDA0401EA63F245A7B73FD7741BFCE8">A mid-Oligocene (Whitneyan) rhinocerotid from north-eastern California.</a> <b>Bright, JA.</b>, Tiffney, BH., Wyss, AR. 2015. <i>Journal of Paleontology</i>. <b>89</b>, 135-139.</li>
+</p><p>
+<li><a href="https://www.cambridge.org/core/journals/journal-of-paleontology/article/abs/review-of-paleontological-finite-element-models-and-their-validity/60BD063B98D0436030A2B362D9ED6F04">A review of paleontological finite element models and their validity.</a> <b>Bright, JA.</b> 2014. <i>Journal of Paleontology.</i> <b>88</b>, 760-769.</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/joa.12153">Digital dissection – using contrast-enhanced CT scanning to elucidate hard- and soft-tissue anatomy in the Common Buzzard <i>Buteo buteo</i>.</a> Lautenschalger, S., <b>Bright, JA.</b>, Rayfield, EJ. 2014. <i>Journal of Anatomy.</i> <b>224</b>, 412-431.</li>
+</p><p>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0021929012001091">Improving the validation of finite element models with quantitative full-field strain comparisons.</a> Gröning, F., <b>Bright, JA.</b>, Fagan, M., O'Higgins, P. 2012. <i>Journal of Biomechanics</i>. <b>45</b>, 1498-1506.</li>
+</p><p>
+<li><a href="https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2011.0674">Models in palaeontological functional analysis.</a> Anderson, PSL., <b>Bright, JA.</b>, Gill, PG., Palmer, C., Rayfield, EJ. 2012. <i>Biology Letters</i>. <b>8</b>, 119-122.</li>
+</p><p>
+<li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031769">The importance of craniofacial sutures in biomechanical finite element models of the domestic pig.</a> <b>Bright, JA.</b> 2012. <i>PLoS One</i>. <b>7</b>, e31769.</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jmor.10991">Strain accommodation in the zygomatic arch of the pig: a validation study using digital speckle pattern interferometry and finite element analysis.</a> <b>Bright, JA.</b>, Gröning, F. 2011. <i>Journal of Morphology</i>. <b>272</b>, 1388-1398.</li>
+</p><p>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-7580.2011.01408.x">Sensitivity and <i>ex vivo</i> validation of finite element models of the domestic pig cranium.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Journal of Anatomy</i>. <b>219</b>, 456-471.</li>
+</p><p>
+<li><a href="https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.21358">The response of cranial biomechanical finite element models to variations in mesh density.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Anatomical Record</i>. <b>294</b>, 610-620.</li>
+</p>
+</ol>
 
 {% include base_path %}
 
