@@ -9,12 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<p>
 <ol reversed> 
 <li><a href="https://elifesciences.org/articles/89871">Synthetic analysis of trophic diversity and evolution in Enantiornithes with new insights from Bohaiornithidae.</a> Miller, CV., <b>Bright, JA.</b>, Wang, X., Zheng, X., Pittman, M. 2024. <i>eLife</i>. <b>12</b>, RP89871</li>
-</p><p>
 <li><a href="https://www.science.org/doi/full/10.1126/sciadv.adg1641">Innovation and elaboration on the avian tree of life.</a> Guillerme, T., <b>Bright, JA.</b>, Cooney, CR., Hughes, EC., Varley, ZK., Cooper, N., Beckerman, AP., Thomas, GH. 2023.  <i>Science Advances</i>. <b>9</b>, eadg1641.</li>
-</p><p>
 <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.21633">Three-dimensional visualization of predatory gastropod feeding teeth with synchrotron scanning.</a> Herbert, GS., Hill, SA., Pio, MJ., Carney, R., Carlson, A., Newham, E., <b>Bright, JA.</b> 2023.  <i>Journal of Morphology.</i> <b>284</b>, e21633.</li>
 </p><p>
 <li><a href="https://peerj.com/articles/15545/">Is shape in the eye of the beholder? Assessing landmarking error in geometric morphometric analyses on live fish.</a> Moccetti, P., Rodger, JR., Bolland, JD., Kaiser-Wilks, P., Smith, R., Nunn, AD., Adams, CE., <b>Bright, JA.</b>, Honkanen, HM., Lothian, A., Newton, M., Joyce, DA. 2023. <i>PeerJ.</i> <b>11</b>, e15545.</li>
@@ -70,8 +67,7 @@ author_profile: true
 <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-7580.2011.01408.x">Sensitivity and <i>ex vivo</i> validation of finite element models of the domestic pig cranium.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Journal of Anatomy</i>. <b>219</b>, 456-471.</li>
 </p><p>
 <li><a href="https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.21358">The response of cranial biomechanical finite element models to variations in mesh density.</a> <b>Bright, JA.</b>, Rayfield, EJ. 2011. <i>Anatomical Record</i>. <b>294</b>, 610-620.</li>
-</p>
-</ol>
+</ol reversed>
 
 {% include base_path %}
 
